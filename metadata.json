@@ -1,0 +1,6 @@
+{
+  "name": "CravSave - Cravings. Savings.",
+  "description": "Surplus food marketplace connecting local bakeries and cafes to conscious food lovers with transparent deals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
